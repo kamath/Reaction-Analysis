@@ -1,4 +1,4 @@
-# Reaction-Analysis
+# Reaction Analysis
 
 How do people react to Facebook posts on different channels?
 
